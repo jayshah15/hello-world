@@ -1,5 +1,5 @@
 /*****
- * My name is Jay Shah.
+ * student Jay Shah.
  ******/
 public class GitDemo {
     
